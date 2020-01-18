@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2020-01-18T16:55:39.772Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:68.0) Gecko/20100101 Firefox/68.0" etag="ZdZECGB23Q6XM-dIZFxE" version="12.5.5" type="github">
+<mxfile host="www.draw.io" modified="2020-01-18T16:57:21.003Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:68.0) Gecko/20100101 Firefox/68.0" etag="67tF0UD-aEyZos_dGKq8" version="12.5.5" type="github">
   <diagram id="koSDf-8oMdk8nwm8_pve" name="Page-1">
     <mxGraphModel dx="782" dy="738" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -15,7 +15,7 @@
         <mxCell id="sqa8HyRBBxrVmal0rR0Y-13" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;startArrow=openThin;startFill=0;" parent="1" source="sqa8HyRBBxrVmal0rR0Y-2" target="sqa8HyRBBxrVmal0rR0Y-7" edge="1">
           <mxGeometry relative="1" as="geometry"/>
         </mxCell>
-        <mxCell id="sqa8HyRBBxrVmal0rR0Y-1" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
+        <mxCell id="sqa8HyRBBxrVmal0rR0Y-1" value="Usuario" style="shape=umlActor;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
           <mxGeometry x="80" y="120" width="30" height="60" as="geometry"/>
         </mxCell>
         <mxCell id="sqa8HyRBBxrVmal0rR0Y-14" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;" parent="1" source="sqa8HyRBBxrVmal0rR0Y-2" target="sqa8HyRBBxrVmal0rR0Y-3" edge="1">
